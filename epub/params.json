@@ -1,11 +1,9 @@
 {
     "params": {
       "metadata": {
-        "title": "Banální příběh",
-        "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
-        "author": "Alexandra Berková",
-        "publisher": "Městská knihovna v Praze",
-        "modified": "2021-06-08T22:00:00.000Z"
+        "title": "All Things are Possible",
+        "identifier": "http://www.gutenberg.org/57369",
+        "author": "Lev Shestov"
       },
       "elements": {
         "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -77,321 +75,6 @@
               "hungry": false,
               "devoured": false,
               "hiddenTitle": false
-            },
-            {
-              "id": 5,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 6,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 7,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 8,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 9,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 10,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 11,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 12,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 13,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 14,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 15,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 16,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 17,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 18,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 19,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 20,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 21,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 22,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 23,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 24,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 25,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 26,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 27,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 28,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 29,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 30,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 31,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 32,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 33,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 34,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 35,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 36,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 37,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 38,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
-            },
-            {
-              "id": 39,
-              "role": "chapter",
-              "listType": "plain",
-              "inToc": true,
-              "hungry": false,
-              "devoured": false,
-              "hiddenTitle": false
             }
           ]
         }
@@ -399,314 +82,84 @@
     },
     "epub": {
       "metadata": {
-        "title": "Banální příběh",
-        "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
-        "author": "Alexandra Berková",
-        "publisher": "Městská knihovna v Praze",
-        "modified": "2021-06-08T22:00:00.000Z"
+        "title": "All Things are Possible",
+        "identifier": "http://www.gutenberg.org/57369",
+        "author": "Lev Shestov"
       },
       "chapters": [
         {
           "titleSuggest": "",
           "subtitleSuggest": "",
-          "filename": "banalni_pribeh_001.md",
-          "xhtml": "banalni_pribeh_001.xhtml"
+          "filename": "wrap0000.md",
+          "xhtml": "wrap0000.html"
         },
         {
           "titleSuggest": "",
           "subtitleSuggest": "",
-          "filename": "banalni_pribeh_002.md",
-          "xhtml": "banalni_pribeh_002.xhtml"
+          "filename": "3202843096708673697_57369-h-0.htm.md",
+          "xhtml": "3202843096708673697_57369-h-0.htm.html"
         },
         {
           "titleSuggest": "",
           "subtitleSuggest": "",
-          "filename": "banalni_pribeh_003.md",
-          "xhtml": "banalni_pribeh_003.xhtml"
+          "filename": "3202843096708673697_57369-h-1.htm.md",
+          "xhtml": "3202843096708673697_57369-h-1.htm.html"
         },
         {
           "titleSuggest": "",
           "subtitleSuggest": "",
-          "filename": "banalni_pribeh_004.md",
-          "xhtml": "banalni_pribeh_004.xhtml"
+          "filename": "3202843096708673697_57369-h-2.htm.md",
+          "xhtml": "3202843096708673697_57369-h-2.htm.html"
         },
         {
           "titleSuggest": "",
           "subtitleSuggest": "",
-          "filename": "banalni_pribeh_005.md",
-          "xhtml": "banalni_pribeh_005.xhtml"
-        },
-        {
-          "titleSuggest": "1",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_006.md",
-          "xhtml": "banalni_pribeh_006.xhtml"
-        },
-        {
-          "titleSuggest": "2",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_007.md",
-          "xhtml": "banalni_pribeh_007.xhtml"
-        },
-        {
-          "titleSuggest": "3",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_008.md",
-          "xhtml": "banalni_pribeh_008.xhtml"
-        },
-        {
-          "titleSuggest": "4",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_009.md",
-          "xhtml": "banalni_pribeh_009.xhtml"
-        },
-        {
-          "titleSuggest": "5",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_010.md",
-          "xhtml": "banalni_pribeh_010.xhtml"
-        },
-        {
-          "titleSuggest": "6",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_011.md",
-          "xhtml": "banalni_pribeh_011.xhtml"
-        },
-        {
-          "titleSuggest": "7",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_012.md",
-          "xhtml": "banalni_pribeh_012.xhtml"
-        },
-        {
-          "titleSuggest": "8",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_013.md",
-          "xhtml": "banalni_pribeh_013.xhtml"
-        },
-        {
-          "titleSuggest": "9",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_014.md",
-          "xhtml": "banalni_pribeh_014.xhtml"
-        },
-        {
-          "titleSuggest": "10",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_015.md",
-          "xhtml": "banalni_pribeh_015.xhtml"
-        },
-        {
-          "titleSuggest": "11",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_016.md",
-          "xhtml": "banalni_pribeh_016.xhtml"
-        },
-        {
-          "titleSuggest": "12",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_017.md",
-          "xhtml": "banalni_pribeh_017.xhtml"
-        },
-        {
-          "titleSuggest": "13",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_018.md",
-          "xhtml": "banalni_pribeh_018.xhtml"
-        },
-        {
-          "titleSuggest": "14",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_019.md",
-          "xhtml": "banalni_pribeh_019.xhtml"
-        },
-        {
-          "titleSuggest": "15",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_020.md",
-          "xhtml": "banalni_pribeh_020.xhtml"
-        },
-        {
-          "titleSuggest": "16",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_021.md",
-          "xhtml": "banalni_pribeh_021.xhtml"
-        },
-        {
-          "titleSuggest": "17",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_022.md",
-          "xhtml": "banalni_pribeh_022.xhtml"
-        },
-        {
-          "titleSuggest": "18",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_023.md",
-          "xhtml": "banalni_pribeh_023.xhtml"
-        },
-        {
-          "titleSuggest": "19",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_024.md",
-          "xhtml": "banalni_pribeh_024.xhtml"
-        },
-        {
-          "titleSuggest": "20",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_025.md",
-          "xhtml": "banalni_pribeh_025.xhtml"
-        },
-        {
-          "titleSuggest": "21",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_026.md",
-          "xhtml": "banalni_pribeh_026.xhtml"
-        },
-        {
-          "titleSuggest": "22",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_027.md",
-          "xhtml": "banalni_pribeh_027.xhtml"
-        },
-        {
-          "titleSuggest": "23",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_028.md",
-          "xhtml": "banalni_pribeh_028.xhtml"
-        },
-        {
-          "titleSuggest": "24",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_029.md",
-          "xhtml": "banalni_pribeh_029.xhtml"
-        },
-        {
-          "titleSuggest": "25",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_030.md",
-          "xhtml": "banalni_pribeh_030.xhtml"
-        },
-        {
-          "titleSuggest": "26",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_031.md",
-          "xhtml": "banalni_pribeh_031.xhtml"
-        },
-        {
-          "titleSuggest": "27",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_032.md",
-          "xhtml": "banalni_pribeh_032.xhtml"
-        },
-        {
-          "titleSuggest": "28",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_033.md",
-          "xhtml": "banalni_pribeh_033.xhtml"
-        },
-        {
-          "titleSuggest": "29",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_034.md",
-          "xhtml": "banalni_pribeh_034.xhtml"
-        },
-        {
-          "titleSuggest": "30",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_035.md",
-          "xhtml": "banalni_pribeh_035.xhtml"
-        },
-        {
-          "titleSuggest": "31",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_036.md",
-          "xhtml": "banalni_pribeh_036.xhtml"
-        },
-        {
-          "titleSuggest": "32",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_037.md",
-          "xhtml": "banalni_pribeh_037.xhtml"
-        },
-        {
-          "titleSuggest": "33",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_038.md",
-          "xhtml": "banalni_pribeh_038.xhtml"
-        },
-        {
-          "titleSuggest": "34",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_039.md",
-          "xhtml": "banalni_pribeh_039.xhtml"
-        },
-        {
-          "titleSuggest": "",
-          "subtitleSuggest": "",
-          "filename": "banalni_pribeh_040.md",
-          "xhtml": "banalni_pribeh_040.xhtml"
+          "filename": "3202843096708673697_57369-h-3.htm.md",
+          "xhtml": "3202843096708673697_57369-h-3.htm.html"
         }
       ],
       "resources": [
         {
-          "type": "application/x-dtbncx+xml",
-          "href": "OEBPS/toc.ncx"
+          "type": "image/jpeg",
+          "height": 986,
+          "width": 633,
+          "rel": "cover",
+          "href": "OEBPS/5608583703877393274_cover.jpg"
         },
         {
           "type": "text/css",
-          "href": "OEBPS/Styles/idGeneratedStyles.css"
+          "href": "OEBPS/pgepub.css"
         },
         {
-          "type": "image/jpeg",
-          "href": "OEBPS/Images/image001.jpg"
+          "type": "text/css",
+          "href": "OEBPS/0.css"
         },
         {
-          "type": "image/jpeg",
-          "href": "OEBPS/Images/image002.jpg"
+          "type": "text/css",
+          "href": "OEBPS/1.css"
         },
         {
-          "type": "image/jpeg",
-          "href": "OEBPS/Images/obalka_banalni_pribeh.jpg"
-        },
-        {
-          "type": "image/jpeg",
-          "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+          "type": "application/x-dtbncx+xml",
+          "href": "OEBPS/toc.ncx"
         }
       ],
       "classes": [
-        "CharOverride-1",
-        "Hyperlink",
-        "MLP_citacni_str_rozdeleni",
-        "MLP_licence_hypertext",
-        "MLP_licence_obrazek",
-        "MLP_licence_paragraf",
-        "MLP_licence_text",
-        "MLP_obrazky",
-        "MLP_text",
-        "MLP_text_bez1radku",
-        "MLP_text_bez1radku_-0-12-",
-        "MLP_text_bez1radku_-12-0-",
-        "MLP_tiraz_autor_a_nazev",
-        "MLP_tiraz_podnazev",
-        "MLP_titulka_autor",
-        "MLP_titulka_nazev",
-        "MLP_titulka_podnazev",
-        "MLP_uroven2_kapitola",
-        "MLP_znak_kurziva_11b",
-        "ParaOverride-1",
-        "ParaOverride-2",
-        "ParaOverride-3",
-        "_idGenCharOverride-1",
-        "_idGenObjectAttribute-1",
-        "_idGenObjectAttribute-2",
-        "_idGenObjectLayout-1",
-        "_idGenObjectStyleOverride-1",
-        "_idGenParaOverride-1"
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "center",
+        "chap",
+        "figcenter",
+        "pgheader",
+        "pgmonospaced"
       ],
       "github": {
         "user": "books-are-next",
         "repo": "shestov-all-things-are-possible"
       },
-      "generatedAt": 1657033175612
+      "generatedAt": 1657033989320
     }
   }
